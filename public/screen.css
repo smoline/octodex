@@ -61,6 +61,7 @@ main ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .box {
@@ -70,6 +71,7 @@ main ul {
 }
 
 .mainimage {
+  /*max-width: 424px;*/
   height: 424px;
   width: 424px;
   padding: 10px;
