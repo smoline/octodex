@@ -61,6 +61,7 @@ main ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
 }
 
@@ -174,6 +175,7 @@ footer li a {
 
   div.container {
     display: flex;
+    align-items: center;
     margin: 5px;
     padding: 5px;
   }
